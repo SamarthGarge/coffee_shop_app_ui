@@ -1,0 +1,37 @@
+name: coffee_shop
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  iconsax: ^0.0.8
+  readmore: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/banner.png
+    - assets/bean.png
+    - assets/bg.png
+    - assets/bike.png
+    - assets/coffee1.png
+    - assets/coffee2.png
+    - assets/coffee3.png
+    - assets/coffee4.png
+    - assets/coffee5.png
+    - assets/ic_search.png
+    - assets/ic_star_filled.png
+    - assets/milk.png
